@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "About verdant\n\n\nThis is a project just for learning~\n\n\n0.0", 
+            "title": "\u4e3b\u9875"
+        }, 
+        {
+            "location": "/#about-verdant", 
+            "text": "This is a project just for learning~  0.0", 
+            "title": "About verdant"
+        }
+    ]
+}
