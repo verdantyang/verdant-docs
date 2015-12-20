@@ -27,6 +27,7 @@
     :glob:
     
     database/index
+    linuxOperate/index
 
 
 Indices and tables

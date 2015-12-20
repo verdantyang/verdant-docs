@@ -52,9 +52,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'verdant-docs'
+project = u'Verdant Yang 学习笔记'
 copyright = u'2015, Verdant Yang'
-author = u'Verdant Yang'
+# author = u'Verdant Yang'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
