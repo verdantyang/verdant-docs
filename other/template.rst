@@ -189,7 +189,7 @@ subversion
 
 .. _fig1:
 
-.. figure:: /_static/github.png
+.. figure:: /images/github.jpg
 
    内部跳转图例
 
@@ -218,7 +218,7 @@ subversion
 图片
 --------
 
-.. figure:: /_static/github.png
+.. figure:: /images/github.jpg
    :width: 32
 
    图：GitHub Octocat
@@ -227,11 +227,11 @@ subversion
 - 带链接的图片：
   |imglink|_
 - 下图向右浮动。
-   .. image:: /_static/github.png
+   .. image:: /images/github.jpg
       :align: right
 
-.. |octocat| image:: /_static/github.png
-.. |imglink| image:: /_static/github.png
+.. |octocat| image:: /images/github.jpg
+.. |imglink| image:: /images/github.jpg
 .. _imglink: https://github.com/
 
 
