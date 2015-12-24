@@ -1,5 +1,5 @@
-# About verdant
+# About verdant-docs
 
-This is a project just for learning~
+这是个人使用sphinx整理的学习笔记，托管在Read The Docs上
 
-0.0
+http://verdant-docs.readthedocs.org/zh_CN/latest/index.html

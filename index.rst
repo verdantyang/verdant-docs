@@ -14,7 +14,7 @@
 
    - 作者：
    - 博客：
-   - Github地址：
+   - Github地址：https://github.com/verdantyang
 
 
 目录
@@ -29,7 +29,7 @@
    other/index
 
 Indices and tables
-==================
+====================
 
 * :ref:`genindex`
 * :ref:`modindex`
