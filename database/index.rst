@@ -1,5 +1,8 @@
 .. _database-overview:
 
+.. role:: raw-html(raw)
+   :format: html
+
 数据库
 ==========
 \ **关系数据库**\ ：Mysql、Oracle、SQLite
@@ -20,6 +23,14 @@
 
 	图数据库支持ACID规则以及自动索引
 
+书籍推荐： `高性能MySQL <http://book.douban.com/subject/4241826/>`_
+
+工具推荐： `DBeaver <http://dbeaver.jkiss.org/>`_
+
+
+MySQL官网： http://dev.mysql.com/doc/
+:raw-html:`<br />`
+数据库内核月报： http://mysql.taobao.org/monthly/
 
 .. toctree::
    :maxdepth: 1
