@@ -14,7 +14,7 @@
   4. 在存储引擎中进行查询
   5. 将结果返回给客户端（增量、逐步返回的过程）
 
-.. figure:: /images/query-procedure.png
+.. figure:: /images/tuning-queryProcedure.jpg
    :align: center
 
    图：数据库查询处理流程（MySQL）
