@@ -26,6 +26,7 @@
     
    database/index
    linux_operate/index
+   bigdata/index
    other/index
 
 Indices and tables
